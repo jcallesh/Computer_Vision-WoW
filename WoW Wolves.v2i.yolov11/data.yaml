@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['wolf']
+
+roboflow:
+  workspace: frank-pereny-dan82
+  project: wow-wolves
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/frank-pereny-dan82/wow-wolves/dataset/2
