@@ -19,7 +19,7 @@ This repository contains a simple implementation of a computer vision project to
 Training dataset is provided here: [WoW Wolves Dataset](https://universe.roboflow.com/frank-pereny-dan82/wow-wolves/dataset/2)
 
 
-📝 Notes
+ Notes
 - Ensure Tesseract OCR is installed and properly configured if using OCR features
 - GPU acceleration is recommended for YOLO training and inference
 - Scripts are modular and can be adapted for other object detection tasks
